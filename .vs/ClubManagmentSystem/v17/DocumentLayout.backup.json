@@ -1,0 +1,630 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\interfaces\\imembershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\interfaces\\imembershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\dto\u0027s\\membershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\dto\u0027s\\membershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\implementations\\membershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\implementations\\membershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\implementations\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\implementations\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\uow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\uow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\profiles\\memberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\profiles\\memberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\interfaces\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\interfaces\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\implementations\\paymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\implementations\\paymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\interfaces\\ipaymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\interfaces\\ipaymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\implementations\\facilityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\implementations\\facilityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\interfaces\\ifacilityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\interfaces\\ifacilityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\implementations\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\implementations\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\interfaces\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\interfaces\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\profiles\\bookingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\profiles\\bookingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\profiles\\facilityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\profiles\\facilityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\profiles\\paymentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\profiles\\paymentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\profiles\\membershipprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\profiles\\membershipprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\clubmanagmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\clubmanagmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\dto\u0027s\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\dto\u0027s\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\dto\u0027s\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\dto\u0027s\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\dto\u0027s\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\dto\u0027s\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\dto\u0027s\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\dto\u0027s\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\repos\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\repos\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\migrations\\20261012063508_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\migrations\\20261012063508_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\data\\clubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\data\\clubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\clubmanagmentsystem\\clubmanagmentsystem\\clubmanagmentsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D9808C3B-2EBE-4EA6-8B67-27307CC55DC9}|ClubManagmentSystem\\ClubManagmentSystem.csproj|solutionrelative:clubmanagmentsystem\\clubmanagmentsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberShipController.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Controllers\\MemberShipController.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Controllers\\MemberShipController.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Controllers\\MemberShipController.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Controllers\\MemberShipController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:26:39.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Program.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:00:40.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IMemberRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Interfaces\\IMemberRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IMemberRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Interfaces\\IMemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:51:59.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMemberShipRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IMemberShipRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Interfaces\\IMemberShipRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IMemberShipRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Interfaces\\IMemberShipRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:52:15.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberShipRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\MemberShipRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Implementations\\MemberShipRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\MemberShipRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Implementations\\MemberShipRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:53:05.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\PaymentRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Implementations\\PaymentRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\PaymentRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Implementations\\PaymentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:53:14.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwD0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:48:54.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\MemberRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Implementations\\MemberRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\MemberRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Implementations\\MemberRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:52:56.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberShipDto.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\DTO\u0027s\\MemberShipDto.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\DTO\u0027s\\MemberShipDto.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\DTO\u0027s\\MemberShipDto.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\DTO\u0027s\\MemberShipDto.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA3wDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:05:38.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\UOW\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\UOW\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\UOW\\IUnitOfWork.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\UOW\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:49:46.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPaymentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IPaymentRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Interfaces\\IPaymentRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IPaymentRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Interfaces\\IPaymentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:52:25.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FacilityRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\FacilityRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Implementations\\FacilityRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\FacilityRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Implementations\\FacilityRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:52:47.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFacilityRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IFacilityRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Interfaces\\IFacilityRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IFacilityRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Interfaces\\IFacilityRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:51:45.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemberProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Profiles\\MemberProfile.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Profiles\\MemberProfile.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Profiles\\MemberProfile.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Profiles\\MemberProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:09:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Implementations\\BookingRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\BookingRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Implementations\\BookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:52:34.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IBookingRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Interfaces\\IBookingRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IBookingRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Interfaces\\IBookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:51:28.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:07:28.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\UOW\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\UOW\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\UOW\\UnitOfWork.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\UOW\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:49:33.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Profiles\\BookingProfile.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Profiles\\BookingProfile.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Profiles\\BookingProfile.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Profiles\\BookingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:09:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FacilityProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Profiles\\FacilityProfile.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Profiles\\FacilityProfile.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Profiles\\FacilityProfile.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Profiles\\FacilityProfile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:09:16.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Profiles\\PaymentProfile.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Profiles\\PaymentProfile.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Profiles\\PaymentProfile.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Profiles\\PaymentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:10:00.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MemberShipProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Profiles\\MemberShipProfile.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Profiles\\MemberShipProfile.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Profiles\\MemberShipProfile.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Profiles\\MemberShipProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:09:49.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\DTO\u0027s\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\DTO\u0027s\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\DTO\u0027s\\PaymentDto.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\DTO\u0027s\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:07:13.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MemberDto.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\DTO\u0027s\\MemberDto.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\DTO\u0027s\\MemberDto.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\DTO\u0027s\\MemberDto.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\DTO\u0027s\\MemberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:01:07.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\DTO\u0027s\\BookingDto.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\DTO\u0027s\\BookingDto.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\DTO\u0027s\\BookingDto.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\DTO\u0027s\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:03:12.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FacilityDto.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\DTO\u0027s\\FacilityDto.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\DTO\u0027s\\FacilityDto.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\DTO\u0027s\\FacilityDto.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\DTO\u0027s\\FacilityDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:04:24.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Models\\Facility.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Models\\Facility.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Models\\Facility.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Models\\Facility.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:13:54.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Models\\Payment.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:18:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClubManagmentSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\ClubManagmentSystem.csproj",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\ClubManagmentSystem.csproj",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\ClubManagmentSystem.csproj",
+              "RelativeToolTip": "ClubManagmentSystem\\ClubManagmentSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T06:23:08.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Models\\Booking.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Models\\Booking.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:16:03.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MemberShip.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Models\\MemberShip.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Models\\MemberShip.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Models\\MemberShip.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Models\\MemberShip.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:11:19.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Models\\Member.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Models\\Member.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:09:46.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20261012063508_init.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Migrations\\20261012063508_init.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Migrations\\20261012063508_init.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Migrations\\20261012063508_init.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Migrations\\20261012063508_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:35:08.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ClubContext.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Data\\ClubContext.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Data\\ClubContext.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Data\\ClubContext.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Data\\ClubContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBUAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:23:24.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "RelativeToolTip": "ClubManagmentSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:07:37.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ClubManagmentSystem.http",
+              "DocumentMoniker": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\ClubManagmentSystem.http",
+              "RelativeDocumentMoniker": "ClubManagmentSystem\\ClubManagmentSystem.http",
+              "ToolTip": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\ClubManagmentSystem\\ClubManagmentSystem\\ClubManagmentSystem.http",
+              "RelativeToolTip": "ClubManagmentSystem\\ClubManagmentSystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-12T06:26:44.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
