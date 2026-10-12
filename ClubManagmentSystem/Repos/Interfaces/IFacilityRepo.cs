@@ -4,5 +4,6 @@ namespace ClubManagmentSystem.Repos.Interfaces
 {
     public interface IFacilityRepo : IGenericRepo<Facility>
     {
+        Task<List<Facility>> OrderByCapacity();
     }
 }

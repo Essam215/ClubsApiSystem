@@ -42,5 +42,13 @@ namespace ClubManagmentSystem.Controllers
             var data = await _unitOfWork.memberShipRepo.GetMemberShipById(id, dto);
             return Ok(data);
         }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteMemberShip(int id)
+        {
+            var std = await _unitOfWork.memberShipRepo.GetById(id);
+            if (std == null) return NotFound("MemberShip Not Found");
+            _unitOfWork.memberShipRepo.Delete(std);
+            return NoContent();
+        }
     }
 }

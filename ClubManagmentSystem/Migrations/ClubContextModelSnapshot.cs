@@ -59,6 +59,41 @@ namespace ClubManagmentSystem.Migrations
                     b.HasIndex("MemberId");
 
                     b.ToTable("bookings");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            BookingDate = new DateTime(2026, 10, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EndTime = new TimeSpan(0, 12, 0, 0, 0),
+                            FacilityId = 1,
+                            GroupSize = 10,
+                            MemberId = 1,
+                            StartTime = new TimeSpan(0, 10, 0, 0, 0),
+                            Status = "Confirmed"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            BookingDate = new DateTime(2026, 10, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EndTime = new TimeSpan(0, 15, 0, 0, 0),
+                            FacilityId = 2,
+                            GroupSize = 8,
+                            MemberId = 2,
+                            StartTime = new TimeSpan(0, 14, 0, 0, 0),
+                            Status = "Confirmed"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            BookingDate = new DateTime(2026, 10, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EndTime = new TimeSpan(0, 17, 0, 0, 0),
+                            FacilityId = 3,
+                            GroupSize = 4,
+                            MemberId = 3,
+                            StartTime = new TimeSpan(0, 16, 0, 0, 0),
+                            Status = "Cancelled"
+                        });
                 });
 
             modelBuilder.Entity("ClubManagmentSystem.Models.Facility", b =>
@@ -86,6 +121,29 @@ namespace ClubManagmentSystem.Migrations
                         .IsUnique();
 
                     b.ToTable("facilities");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Capacity = 30,
+                            HourlyPrice = 250m,
+                            Name = "Swimming Pool"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Capacity = 40,
+                            HourlyPrice = 150m,
+                            Name = "Gym Hall"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Capacity = 10,
+                            HourlyPrice = 200m,
+                            Name = "Tennis Court"
+                        });
                 });
 
             modelBuilder.Entity("ClubManagmentSystem.Models.Member", b =>
@@ -115,6 +173,32 @@ namespace ClubManagmentSystem.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("members");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            DateOfBirth = new DateTime(2000, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Email = "ahmed@example.com",
+                            FullName = "Ahmed Mohamed",
+                            Phone = "01011112222"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            DateOfBirth = new DateTime(1998, 9, 20, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Email = "mona@example.com",
+                            FullName = "Mona Ali",
+                            Phone = "01022223333"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            DateOfBirth = new DateTime(2002, 1, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Email = "omar@example.com",
+                            FullName = "Omar Hassan",
+                            Phone = "01033334444"
+                        });
                 });
 
             modelBuilder.Entity("ClubManagmentSystem.Models.MemberShip", b =>
@@ -151,6 +235,38 @@ namespace ClubManagmentSystem.Migrations
                         .IsUnique();
 
                     b.ToTable("memberShips");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            EndDate = new DateTime(2027, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            MemberId = 1,
+                            Price = 5000m,
+                            StartDate = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Status = "Active",
+                            Type = "Gold"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            EndDate = new DateTime(2027, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            MemberId = 2,
+                            Price = 3000m,
+                            StartDate = new DateTime(2026, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Status = "Active",
+                            Type = "Silver"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            EndDate = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            MemberId = 3,
+                            Price = 1500m,
+                            StartDate = new DateTime(2025, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Status = "Expired",
+                            Type = "Basic"
+                        });
                 });
 
             modelBuilder.Entity("ClubManagmentSystem.Models.Payment", b =>
@@ -179,6 +295,32 @@ namespace ClubManagmentSystem.Migrations
                     b.HasIndex("MemberShipId");
 
                     b.ToTable("payments");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Amount = 5000m,
+                            MemberShipId = 1,
+                            PaymentDate = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            PaymentMethod = "Card"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Amount = 3000m,
+                            MemberShipId = 2,
+                            PaymentDate = new DateTime(2026, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            PaymentMethod = "Cash"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Amount = 1500m,
+                            MemberShipId = 3,
+                            PaymentDate = new DateTime(2025, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            PaymentMethod = "Wallet"
+                        });
                 });
 
             modelBuilder.Entity("ClubManagmentSystem.Models.Booking", b =>

@@ -12,7 +12,7 @@ namespace ClubManagmentSystem.Models
         public string Email { get; set; }
         [Required, Phone]
         public string Phone { get; set; }
-        public DateTime DateOfBirth     { get; set; }
+        public DateTime DateOfBirth { get; set; }
 
         public MemberShip MemberShip { get; set; }
         public List<Booking> Bookings { get; set; } = new List<Booking>();

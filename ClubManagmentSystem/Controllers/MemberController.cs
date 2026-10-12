@@ -2,7 +2,6 @@
 using AutoMapper.Execution;
 using ClubManagmentSystem.Data;
 using ClubManagmentSystem.DTO_s;
-using ClubManagmentSystem.Migrations;
 using ClubManagmentSystem.Models;
 using ClubManagmentSystem.UOW;
 using Microsoft.AspNetCore.Http;
